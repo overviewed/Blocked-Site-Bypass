@@ -1,4 +1,3 @@
-
 from webbot import Browser
 from time import sleep
 
